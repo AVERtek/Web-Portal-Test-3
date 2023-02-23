@@ -1,2 +1,2 @@
-# Web-Portal-Test-2
-Skybox with a model
+# Web-Portal-Test-3
+Skybox with a talking head model
